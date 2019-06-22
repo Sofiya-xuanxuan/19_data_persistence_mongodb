@@ -2,143 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330338eb-52f1-476f-b7f7-4f8af0051708" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/keystone/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/keystone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/Enquiry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/Gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/PostCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/images/logo-email.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/bootstrap-3.3.5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/bootstrap-3.3.5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/bootstrap/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/jquery/jquery-1.11.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/jquery/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/jquery/jquery-2.1.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/js/jquery/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/badges.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/bootstrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/breadcrumbs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/button-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/close.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/code.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/component-animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/dropdowns.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/glyphicons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/input-groups.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/jumbotron.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/media.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/alerts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/background-variant.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/border-radius.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/center-block.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/clearfix.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/gradients.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/grid-framework.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/hide-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/image.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/labels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/list-group.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/nav-divider.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/nav-vertical-align.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/opacity.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/progress-bar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/reset-filter.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/reset-text.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/resize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/responsive-visibility.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/size.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/tab-focus.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/table-row.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/text-emphasis.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/text-overflow.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/mixins/vendor-prefixes.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/modals.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/navbar.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/navs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/normalize.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/pager.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/pagination.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/panels.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/popovers.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/print.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/progress-bars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/responsive-embed.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/responsive-utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/scaffolding.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/tables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/thumbnails.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/tooltip.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/type.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/utilities.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/bootstrap/wells.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/site.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/site.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/site/layout.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/public/styles/site/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/views/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/views/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/views/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/views/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/routes/views/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/layouts/default.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/mixins/flash-messages.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/blog.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/contact.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/errors/404.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/errors/500.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/gallery.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/templates/views/post.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystone/updates/0.0.1-admins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoose/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mongo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/mongo/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongo/models/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/mongo/models/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -154,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoose/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+            <state relative-caret-position="1743">
+              <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -168,17 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keystone/models/Gallery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="189">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keystone/node_modules/_keystone@4.0.0-beta.5@keystone/fields/types/cloudinaryimage/CloudinaryImageType.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="57" column="42" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -196,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keystone/keystone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="357">
               <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -207,13 +62,26 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongo/models/db.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="105">
               <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
@@ -222,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongo/initData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="252">
               <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
@@ -233,8 +101,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -263,14 +131,14 @@
         <option value="$PROJECT_DIR$/mongo/index.js" />
         <option value="$PROJECT_DIR$/mongoose/index.js" />
         <option value="$PROJECT_DIR$/keystone/keystone.js" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -278,81 +146,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="_keystone@4.0.0-beta.5@keystone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="_keystone@4.0.0-beta.5@keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="fields" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="_keystone@4.0.0-beta.5@keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="fields" type="462c0819:PsiDirectoryNode" />
-              <item name="types" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="_keystone@4.0.0-beta.5@keystone" type="462c0819:PsiDirectoryNode" />
-              <item name="fields" type="462c0819:PsiDirectoryNode" />
-              <item name="types" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudinaryimage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18_持久化-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18_持久化-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoose" type="462c0819:PsiDirectoryNode" />
+              <item name="19_data_persistence_mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="19_data_persistence_mongodb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/studyit/ksher/KsherSSO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -381,17 +194,18 @@
       <updated>1561017062866</updated>
       <workItem from="1561017064581" duration="19170000" />
       <workItem from="1561111547557" duration="1080000" />
+      <workItem from="1561185029189" duration="1396000" />
+      <workItem from="1561187446626" duration="769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20250000" />
+    <option name="totallyTimeSpent" value="22415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20495258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123568416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -403,8 +217,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16052061" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16209774" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="GraphQL" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,42 +257,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongo/models/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongo/initData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/keystone/node_modules/_keystone@4.0.0-beta.5@keystone/fields/types/cloudinaryimage/CloudinaryImageType.js" />
     <entry file="file://$PROJECT_DIR$/mongoose/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keystone/keystone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="1743">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keystone/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keystone/models/Gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keystone/models/Order.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -485,17 +281,41 @@
     <entry file="file://$PROJECT_DIR$/keystone/models/Post.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/keystone/models/Gallery.js">
+    <entry file="file://$PROJECT_DIR$/keystone/keystone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keystone/node_modules/_keystone@4.0.0-beta.5@keystone/fields/types/cloudinaryimage/CloudinaryImageType.js">
+    <entry file="file://$PROJECT_DIR$/mongo/models/db.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="57" column="42" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="42" />
+        <state relative-caret-position="105">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo/initData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
